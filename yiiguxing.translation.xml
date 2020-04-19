@@ -1,0 +1,76 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="VENDOR CONFIRMED" />
+      <item value="供应商已确认" />
+      <item value="VENDOR CONFIRM" />
+      <item value="list Dict By Code From CSB" />
+      <item value="list Dict From CSB By Code" />
+      <item value="dict" />
+      <item value="dic" />
+      <item value="Attribution" />
+      <item value="归属地" />
+      <item value="ownship" />
+      <item value="own" />
+      <item value="Out Of Place Status Exception" />
+      <item value="业务错误编码" />
+      <item value="COPY PROPERTIES ERROR CODE" />
+      <item value="合并" />
+      <item value="is Check Null For Original" />
+      <item value="other" />
+      <item value="QTY" />
+      <item value="数量或交期变更" />
+      <item value="QUANTITY" />
+      <item value="ability Grade" />
+      <item value="available " />
+      <item value="ability grade" />
+      <item value="freight" />
+      <item value="p freight carrier company" />
+      <item value="offset" />
+      <item value="change" />
+      <item value="obtain" />
+      <item value="obtain ticket" />
+      <item value="positions" />
+      <item value="Original" />
+      <item value="procurement" />
+      <item value="xxsrm procurement soa header" />
+      <item value="second" />
+      <item value="秒" />
+      <item value="frequency" />
+      <item value="频率" />
+      <item value="平率" />
+      <item value="refence" />
+      <item value="mill" />
+      <item value="time" />
+      <item value="timing load watermark" />
+      <item value="cycle load watermark" />
+      <item value="循环" />
+      <item value="定时" />
+      <item value="webibar" />
+      <item value="automate" />
+      <item value="grade" />
+      <item value="内" />
+      <item value="inter" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="AZERBAIJANI" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="CATALAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="DejaVu Sans Mono" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+  </component>
+</application>

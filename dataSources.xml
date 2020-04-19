@@ -1,0 +1,40 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="xxapex_test" uuid="acb00b9b-d4e7-4012-8fab-bc8318c2b15a">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@erptest-db.gz.cvte.cn:1531:erptest</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="xxnewsrm_test" uuid="f314f58a-9f86-4e07-a6d7-5b8e3e031e5e">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@erptest-db.gz.cvte.cn:1531:erptest</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="apps_test" uuid="bdc0e627-c68e-47d0-bf45-7027c52f1c73">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@erptest-db.gz.cvte.cn:1531:erptest</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="apps_uat" uuid="c0acfa25-06fc-4e9c-823d-0bb466be55d4">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@erpuat-db.gz.cvte.cn:1541:erpuat</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="xxnewsrm_uat" uuid="cbf1ae4d-698a-4909-bda8-2fefa54ed549">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@erpuat-db.gz.cvte.cn:1541:erpuat</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="xxapex_uat" uuid="8938d1a9-12c1-4e32-9709-67d1607a76c1">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@erpuat-db.gz.cvte.cn:1541:erpuat</jdbc-url>
+    </data-source>
+  </component>
+</application>
