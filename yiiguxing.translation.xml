@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="zookeeper" />
       <item value="VENDOR CONFIRMED" />
       <item value="供应商已确认" />
       <item value="VENDOR CONFIRM" />
@@ -50,11 +51,10 @@
       <item value="automate" />
       <item value="grade" />
       <item value="内" />
-      <item value="inter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
+        <entry key="CHINESE" value="154" />
         <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
