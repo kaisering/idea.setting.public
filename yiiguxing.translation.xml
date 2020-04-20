@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="change" />
+      <item value="chgange" />
       <item value="Texas Instruments China Sales Limited" />
       <item value="Instruments" />
       <item value="Texas" />
@@ -31,7 +33,6 @@
       <item value="freight" />
       <item value="p freight carrier company" />
       <item value="offset" />
-      <item value="change" />
       <item value="obtain" />
       <item value="obtain ticket" />
       <item value="positions" />
@@ -50,11 +51,10 @@
       <item value="cycle load watermark" />
       <item value="循环" />
       <item value="定时" />
-      <item value="webibar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
+        <entry key="CHINESE" value="158" />
         <entry key="ENGLISH" value="158" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
