@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="partition" />
+      <item value="party" />
       <item value="equels" />
       <item value="is Need Vendor Reply" />
       <item value="need vendor reply" />
@@ -49,13 +51,11 @@
       <item value="平率" />
       <item value="refence" />
       <item value="mill" />
-      <item value="time" />
-      <item value="timing load watermark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="161" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
