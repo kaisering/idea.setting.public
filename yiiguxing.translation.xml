@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offer" />
+      <item value="special offer" />
       <item value="tenants" />
       <item value="partition" />
       <item value="hist" />
@@ -49,13 +51,11 @@
       <item value="positions" />
       <item value="Original" />
       <item value="procurement" />
-      <item value="xxsrm procurement soa header" />
-      <item value="second" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
