@@ -3,24 +3,24 @@
     <extensionMap>
       <mapping pattern=".w" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="sshservice" type="PLAIN_TEXT" />
       <mapping pattern="hostname" type="PLAIN_TEXT" />
-      <mapping pattern="rwtab" type="PLAIN_TEXT" />
+      <mapping pattern="sshservice" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern="zookeeper" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="network" type="PLAIN_TEXT" />
+      <mapping pattern="zookeeper" type="PLAIN_TEXT" />
+      <mapping pattern="rwtab" type="PLAIN_TEXT" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="hash" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="aof" type="PLAIN_TEXT" />
       <mapping ext="socket" type="PLAIN_TEXT" />
-      <mapping pattern="PCN变更单" type="SQL" />
       <mapping pattern="供应商资质审查报表" type="SQL" />
       <mapping pattern="送货单" type="SQL" />
+      <mapping pattern="PCN变更单" type="SQL" />
       <mapping pattern="PCB类别" type="SQL" />
       <mapping ext="jasper" type="XML" />
       <removed_mapping ext="w" approved="true" type="XML" />
