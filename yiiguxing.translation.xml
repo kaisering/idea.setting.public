@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validate" />
       <item value="synergy" />
       <item value="offer" />
       <item value="special offer" />
@@ -50,12 +51,11 @@
       <item value="obtain" />
       <item value="obtain ticket" />
       <item value="positions" />
-      <item value="Original" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
