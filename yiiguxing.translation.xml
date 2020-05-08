@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调用版本号" />
+      <item value="调用" />
       <item value="validate" />
       <item value="synergy" />
       <item value="offer" />
@@ -49,13 +51,11 @@
       <item value="p freight carrier company" />
       <item value="offset" />
       <item value="obtain" />
-      <item value="obtain ticket" />
-      <item value="positions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
