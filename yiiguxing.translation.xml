@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wood bracket" />
+      <item value="other Box" />
+      <item value="tanks" />
+      <item value="Spherical tanks" />
       <item value="quantity Unshipped" />
       <item value="gross" />
       <item value="gross Weight" />
@@ -47,15 +51,11 @@
       <item value="other" />
       <item value="QTY" />
       <item value="数量或交期变更" />
-      <item value="QUANTITY" />
-      <item value="ability Grade" />
-      <item value="available " />
-      <item value="ability grade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
