@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customs" />
+      <item value="declaration" />
+      <item value="进口报关" />
+      <item value="IMPORT CUSTOMS CODE" />
       <item value="truncate" />
       <item value="wood bracket" />
       <item value="other Box" />
@@ -47,15 +51,11 @@
       <item value="Out Of Place Status Exception" />
       <item value="业务错误编码" />
       <item value="COPY PROPERTIES ERROR CODE" />
-      <item value="合并" />
-      <item value="is Check Null For Original" />
-      <item value="other" />
-      <item value="QTY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="181" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
