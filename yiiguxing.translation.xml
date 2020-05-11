@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BARREL" />
+      <item value="PAPER BARREL" />
       <item value="customs" />
       <item value="declaration" />
       <item value="进口报关" />
@@ -49,13 +51,11 @@
       <item value="ownship" />
       <item value="own" />
       <item value="Out Of Place Status Exception" />
-      <item value="业务错误编码" />
-      <item value="COPY PROPERTIES ERROR CODE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
