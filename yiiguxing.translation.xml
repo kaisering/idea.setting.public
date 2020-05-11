@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="权限" />
+      <item value="permisson" />
       <item value="BARREL" />
       <item value="PAPER BARREL" />
       <item value="customs" />
@@ -49,13 +51,11 @@
       <item value="Attribution" />
       <item value="归属地" />
       <item value="ownship" />
-      <item value="own" />
-      <item value="Out Of Place Status Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
