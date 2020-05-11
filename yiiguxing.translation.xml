@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The resource identified by this request is only capable of generating responses with characteristics not acceptable according to the request &quot;accept&quot; headers." />
       <item value="号" />
       <item value=" no" />
       <item value="serial no" />
@@ -50,12 +51,11 @@
       <item value="Texas" />
       <item value="zookeeper" />
       <item value="VENDOR CONFIRMED" />
-      <item value="供应商已确认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
