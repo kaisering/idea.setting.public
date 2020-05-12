@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ASSIGN" />
       <item value="orgnization Id" />
       <item value="summing Long" />
       <item value="summarizing Long" />
@@ -50,12 +51,11 @@
       <item value="party" />
       <item value="equels" />
       <item value="is Need Vendor Reply" />
-      <item value="need vendor reply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
