@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="summing Long" />
+      <item value="summarizing Long" />
       <item value="abbreviate Middle" />
       <item value="center" />
       <item value="mid" />
@@ -49,13 +51,11 @@
       <item value="is Need Vendor Reply" />
       <item value="need vendor reply" />
       <item value="change" />
-      <item value="chgange" />
-      <item value="Texas Instruments China Sales Limited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="192" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
