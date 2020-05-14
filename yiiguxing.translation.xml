@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precision" />
       <item value="Optimistic Locker" />
       <item value="组件" />
       <item value="控件" />
@@ -50,12 +51,11 @@
       <item value="hist" />
       <item value="hit" />
       <item value="history" />
-      <item value="absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
